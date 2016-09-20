@@ -4,10 +4,6 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
 
-/**
- * GKislin
- * 11.01.2015.
- */
 public class Meal {
     private final LocalDateTime dateTime;
 
