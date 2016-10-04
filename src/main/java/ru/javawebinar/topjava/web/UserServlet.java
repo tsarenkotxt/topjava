@@ -26,7 +26,7 @@ public class UserServlet extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        LOG.debug("forward to userList");
-        request.getRequestDispatcher("/userList.jsp").forward(request, response);
+        LOG.debug("forward to users");
+        request.getRequestDispatcher("/users.jsp").forward(request, response);
     }
 }
