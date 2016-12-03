@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/tsarenkotxt/topjava.svg?branch=master)](https://travis-ci.org/tsarenkotxt/topjava) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1007bc13f98547e9b5895339e5412e17)](https://www.codacy.com/app/tsarenkotxt/topjava?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tsarenkotxt/topjava&amp;utm_campaign=Badge_Grade) [![Dependency Status](https://dependencyci.com/github/tsarenkotxt/topjava/badge)](https://dependencyci.com/github/tsarenkotxt/topjava)
+
 Java Enterprise Online Project 
 ===============================
 Наиболее востребованные технологии /инструменты / фреймворки Java Enterprise:
